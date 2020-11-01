@@ -33,9 +33,9 @@ body{
         background-color: rgba(0, 93, 175, 0.281);
     }
     &::-webkit-scrollbar-track{
-        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.623)2%, rgba(19, 35, 109, 0.301)75%, rgba(14, 39, 92, 0.438)), url("/image/homepage2.jpg");
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.623)2%, rgba(19, 35, 109, 0.301)75%, rgba(14, 39, 92, 0.438)), url("image/homepage2.jpg");
     }
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.623)2%, rgba(19, 35, 109, 0.301)75%, rgba(14, 39, 92, 0.438)), url("/image/homepage2.jpg");
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.623)2%, rgba(19, 35, 109, 0.301)75%, rgba(14, 39, 92, 0.438)), url("image/homepage2.jpg");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
